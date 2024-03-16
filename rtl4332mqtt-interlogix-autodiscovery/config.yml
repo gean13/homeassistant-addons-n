@@ -32,7 +32,7 @@ schema:
     radios:
         -
             protocol: int
-            frequency: float
+            frequency: int
             gain: int
             frequency_offset: int
     sensors:
